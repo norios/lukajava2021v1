@@ -13,8 +13,6 @@ public class k0705 {
             nprev = n;
             i++;
         }
-
         stdIn.close();
-
     }
 }
