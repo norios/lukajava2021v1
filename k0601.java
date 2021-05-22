@@ -8,5 +8,6 @@ public class k0601 {
             System.out.println(i);
         }
         stdIn.close();
+        
     }
 }
