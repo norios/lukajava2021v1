@@ -9,5 +9,4 @@ public class k0601 {
         }
         stdIn.close();
     }
-    
 }
