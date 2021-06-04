@@ -13,5 +13,6 @@ public class k0906 {
         }
 
         System.out.println(dbl/10);
+        stdIn.close();
     }
 }

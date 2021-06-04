@@ -16,5 +16,6 @@ public class k0907 {
 
         System.out.println("最大値:" + max_val);
         System.out.println("最小値:" + min_val);
+        stdIn.close();
     }
 }
