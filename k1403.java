@@ -1,4 +1,5 @@
 public class k1403 {
+    /*
     public static double df( double x){
         return ここに返り値式;
     }
@@ -18,4 +19,5 @@ public class k1403 {
         }
 
     }
+    */
 }

@@ -1,4 +1,5 @@
 public class k1306 {
+    /*
         public static void show( String name, double[][] m ){}
         public static void show( String name, double[][] v ){}
         public static void show( String name, double[][] S ){}
@@ -29,5 +30,5 @@ public class k1306 {
             
         }
     }
-    
+    */
 }
