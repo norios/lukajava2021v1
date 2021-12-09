@@ -2,7 +2,7 @@ public class k1001a {
     public static void main(String[]args){
         int []vec = {1,2,3,4};
         int []value = new int[vec.length];
-        int []ref;
+        
 
         //値によるコピー
         for (int i = 0; i<vec.length; i++){

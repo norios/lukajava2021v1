@@ -9,6 +9,6 @@ public class k1101 {
         double x = stdIn.nextDouble();
         double y = f(x);
         System.out.println(x+ "," + y);
-        
+        stdIn.close();
     }
 }

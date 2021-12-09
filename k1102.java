@@ -12,6 +12,6 @@ public class k1102 {
             System.out.println(x+ "," + y);
             x = x + 0.1;
         }
-        
+        stdIn.close();
     }
 }

@@ -13,6 +13,6 @@ public class k1103 {
             System.out.println(x+ "," + y);
             x = x + 0.1;
         }
-        
+        stdIn.close();
     }
 }
